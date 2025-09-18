@@ -7,4 +7,4 @@ Result是源代码提取向量表示的实验结果文件，包括数据预处�
 source_code包含源代码文件Dataset。
 源代码预处理方法文件extract_csv.py，提取源代码向量表示文件extract_vectors.py。
 HCMDU.py是本作品提出的欠采样方法文件。
-main.py是本作用实现软件缺陷预测欠采样工具的执行文件。
+main.py是本作品实现软件缺陷预测欠采样工具的执行文件。
